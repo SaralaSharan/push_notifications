@@ -16,7 +16,7 @@ async function sendNotification(token) {
     ]);
     console.log("Notifixation sent: ", notificationResponse);
   } else {
-    console.log("Invalid token ", token);
+    console.log("Invalid token ",token);
   }
 }
 
